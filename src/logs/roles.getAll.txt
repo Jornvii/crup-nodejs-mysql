@@ -1,0 +1,10 @@
+[14/08/2024 02:23:50] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:23:53] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:23:54] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:25:00] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:25:02] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:25:05] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:25:11] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:25:19] Error: Table 'role_api.rolesssss' doesn't exist
+[14/08/2024 02:28:47] TypeError: db.queryq is not a function
+[14/08/2024 02:28:48] TypeError: db.queryq is not a function
